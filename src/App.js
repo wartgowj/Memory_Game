@@ -32,7 +32,8 @@ class App extends Component {
         }),
         clickedPart: [],
         score: 0,
-        level: 1,
+        level: 2,
+        level2: 1,
         levelScore: 0
       });
       swal({
